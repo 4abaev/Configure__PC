@@ -58,13 +58,17 @@ ___
 ## Команда проекта
 
   <a href="https://github.com/4abaev">
-    <img alt="Khalimov" src="https://img.shields.io/badge/-CHABAEV_RASHID-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="ChabaevR" src="https://img.shields.io/badge/-CHABAEV_RASHID-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/zxcviolence">
-    <img alt="Kharsaeva" src="https://img.shields.io/badge/-YAKUBOV_ISLAM-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Yakubov" src="https://img.shields.io/badge/-YAKUBOV_ISLAM-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/WetFlamer">
-    <img alt="Kasumov" src="https://img.shields.io/badge/-CHABAEV_KHAMID-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="ChabaevKh" src="https://img.shields.io/badge/-CHABAEV_KHAMID-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  </a>
+  <a href="https://github.com/arthurshelbaev">
+    <img alt="ArthurY" src="https://img.shields.io/badge/-YUNUSOV_ARTHUR-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 ---
